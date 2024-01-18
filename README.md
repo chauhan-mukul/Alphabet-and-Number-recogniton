@@ -30,4 +30,9 @@ vector R(n,m) space. The vector R(n,m) space is flattened to R(n*m,1) and passed
 
 3.CNN has parameter sharing and because of sparsity of conneciton.
 
+# How to create a realtime based Writing pad
+
+We use open cv library with its features of eventlistners for this purpose. This is what it looks like
+
+![write pad](https://github.com/chauhan-mukul/Alphabet-and-Number-recogniton/assets/143337342/3ad99f28-5d58-40a5-9084-73dcce5387d6)
 
