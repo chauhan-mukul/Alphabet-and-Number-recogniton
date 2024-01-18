@@ -36,3 +36,5 @@ We use open cv library with its features of eventlistners for this purpose. This
 
 ![write pad](https://github.com/chauhan-mukul/Alphabet-and-Number-recogniton/assets/143337342/3ad99f28-5d58-40a5-9084-73dcce5387d6)
 
+The code for this is provided itself at the last of the ipynb file
+
